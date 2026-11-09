@@ -19,7 +19,7 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-* **Linguagens:** Python,
+* **Linguagens:** Python, C++
 * **Backend & Web:** FastAPI, SQLAlchemy, Alembic, Flet, REST APIs
 * **Banco de Dados:** PostgreSQL, MySQL Workbench
 * **Infra & Ferramentas:** Git, GitHub, VS Code
