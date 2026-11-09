@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Estudante de Engenharia de Computação no <b>Inatel</b><br>
-  💻 Desenvolvedor focado em Backend, Sistemas Embarcados e Arquitetura de Software<br>
+  💻 Desenvolvedor Backend, Sistemas Embarcados e Arquitetura de Software<br>
   🇧🇷 Minas Gerais, Brasil
 </p>
 
