@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Estéfano Rosa 👋</h1>
+<h1 align="center">Olá, eu sou o Esthéfano Rosa </h1>
 
 <p align="center">
   🎓 Estudante de Engenharia de Computação no <b>Inatel</b><br>
