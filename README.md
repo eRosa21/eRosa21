@@ -19,10 +19,10 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-* **Linguagens:** Python, C/C++
+* **Linguagens:** Python,
 * **Backend & Web:** FastAPI, SQLAlchemy, Alembic, Flet, REST APIs
 * **Banco de Dados:** PostgreSQL, MySQL Workbench
-* **Infra & Ferramentas:** Git, GitHub, VS Code, Linux, Docker
+* **Infra & Ferramentas:** Git, GitHub, VS Code
 
 ---
 
@@ -36,6 +36,6 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=eRosa21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eRosa21&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=eRosa21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eRosa21&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </p>
