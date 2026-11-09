@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Estéfano Rosa 👋</h1>
 
-<!--
-**eRosa21/eRosa21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Estudante de Engenharia de Computação no <b>Inatel</b><br>
+  💻 Desenvolvedor focado em Backend, Sistemas Embarcados e Arquitetura de Software<br>
+  🇧🇷 Minas Gerais, Brasil
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://linkedin.com/in/SEU-USER-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rosaaestefano@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+* **Linguagens:** Python, C/C++
+* **Backend & Web:** FastAPI, SQLAlchemy, Alembic, Flet, REST APIs
+* **Banco de Dados:** PostgreSQL, MySQL Workbench
+* **Infra & Ferramentas:** Git, GitHub, VS Code, Linux, Docker
+
+---
+
+### 📌 Meus Principais Projetos
+
+* **[PKSigWeb](https://github.com/eRosa21/PKSigWeb):** API REST desenvolvida com FastAPI, SQLAlchemy, PostgreSQL e integração com PokeAPI para gerenciamento de regiões e rotas em um sistema backend.
+* **[PPGastos](https://github.com/eRosa21/PPGastos):** Aplicativo desktop multiplataforma construído com Flet para rastreamento inteligente e controle de finanças pessoais[cite: 1].
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=eRosa21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eRosa21&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
