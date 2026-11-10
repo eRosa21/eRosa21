@@ -32,10 +32,3 @@
 * **[PPGastos](https://github.com/eRosa21/PPGastos):** Aplicativo desktop multiplataforma construído com Python e React para rastreamento inteligente e controle de finanças pessoais.
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=eRosa21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eRosa21&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</p>
