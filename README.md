@@ -29,7 +29,7 @@
 ### 📌 Meus Principais Projetos
 
 * **[PKSigWeb](https://github.com/eRosa21/PKSigWeb):** API REST desenvolvida com FastAPI, SQLAlchemy, PostgreSQL e integração com PokeAPI para gerenciamento de regiões e rotas em um sistema backend.
-* **[PPGastos](https://github.com/eRosa21/PPGastos):** Aplicativo desktop multiplataforma construído com Flet para rastreamento inteligente e controle de finanças pessoais[cite: 1].
+* **[PPGastos](https://github.com/eRosa21/PPGastos):** Aplicativo desktop multiplataforma construído com Python e React para rastreamento inteligente e controle de finanças pessoais.
 
 ---
 
